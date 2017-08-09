@@ -1,0 +1,12 @@
+body {
+	background-color: white;
+}
+
+.logoNoorlander {
+	display:block;
+	margin:0 auto;
+}
+
+.container {
+	margin-top: 40px !important;
+}
