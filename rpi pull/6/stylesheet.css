@@ -1,0 +1,19 @@
+body {
+	background-color: white;
+}
+
+a {
+	color: #2196f3 !important;
+}
+
+.logoNoorlander {
+	display:block;
+	margin:0 auto;
+}
+
+.container {
+	margin-top: 40px !important;
+}
+.tabletext {
+	margin-top: 10px;
+}
