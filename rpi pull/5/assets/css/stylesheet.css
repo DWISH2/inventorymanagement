@@ -1,0 +1,40 @@
+body {
+	background-color: white;
+}
+
+a {
+	color: #2196f3 !important;
+}
+
+.logoNoorlander {
+	display:block;
+	margin:0 auto;
+}
+
+.container {
+	margin-top: 40px !important;
+}
+
+.tabletext {
+	margin-top: 10px;
+}
+
+.btn-plus {
+display: inline-block;
+color: #fff;
+position: relative;
+overflow: hidden;
+z-index: 1;
+width: 40px;
+height: 40px;
+line-height: 40px;
+padding: 0;
+background-color: #26a69a;
+border-radius: 50%;
+-webkit-transition: .3s;
+transition: .3s;
+cursor: pointer;
+vertical-align: middle;
+margin-left: 10%;
+margin-right: 10%;
+}
